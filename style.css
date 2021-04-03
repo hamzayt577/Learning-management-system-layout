@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* box-sizing: border-box; */
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.name {
+  position: relative;
+  top: 66px;
+  color: white;
+}
+
+.sidebar {
+  height: 100%;
+  background-color: #302322;
+}
+
+.sidebar-contents {
+  align-items: center;
+  margin-left: 42px;
+}
+.dashboard-btn,
+.course-btn,
+.forum-btn,
+.account-btn,
+.messages-btn,
+.logout-btn {
+  margin-bottom: 10px;
+}
