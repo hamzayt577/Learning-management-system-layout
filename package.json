@@ -1,0 +1,15 @@
+{
+  "name": "learning-management-system",
+  "version": "1.0.0",
+  "description": "A learning managaement systen layout for anyone to use",
+  "main": "script.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Hamza Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
