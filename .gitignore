@@ -1,3 +1,5 @@
 node_modules
 .cache
 help.txt
+dist
+dist\script.75da7f30.js
