@@ -1,5 +1,7 @@
 node_modules
 .cache
 help.txt
+<<<<<<< HEAD
+=======
 dist
-dist\script.75da7f30.js
+>>>>>>> creating-html
