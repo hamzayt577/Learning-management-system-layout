@@ -23,7 +23,7 @@ body {
 
 .sidebar-contents {
   align-items: center;
-  margin-left: 42px;
+  margin-left: 26px;
 }
 .dashboard-btn,
 .course-btn,
@@ -31,7 +31,8 @@ body {
 .account-btn,
 .messages-btn,
 .logout-btn {
-  margin-bottom: 10px;
+  margin-bottom: 32px;
+  width: 130px;
 }
 
 .course-to-do {
