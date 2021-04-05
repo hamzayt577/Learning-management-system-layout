@@ -57,7 +57,7 @@ body {
 .overdue-courses {
   position: absolute;
   top: 20px;
-  right: 352px;
+  right: 390px;
   border-radius: 10px;
   float: right;
   background: white;
@@ -78,7 +78,7 @@ body {
 .complete-course {
   position: absolute;
   top: 20px;
-  right: 680px;
+  right: 740px;
   border-radius: 10px;
   float: right;
   background: white;
