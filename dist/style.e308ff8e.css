@@ -57,7 +57,7 @@ body {
 .overdue-courses {
   position: absolute;
   top: 20px;
-  right: 352px;
+  right: 390px;
   border-radius: 10px;
   float: right;
   background: white;
@@ -78,7 +78,7 @@ body {
 .complete-course {
   position: absolute;
   top: 20px;
-  right: 680px;
+  right: 740px;
   border-radius: 10px;
   float: right;
   background: white;
@@ -122,6 +122,36 @@ body {
   position: relative;
   float: right;
   bottom: 160px;
+}
+
+.certificates {
+  position: relative;
+  top: 32%;
+  height: 175px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-right: 50px;
+  width: 35%;
+  float: right;
+  background: white;
+}
+
+.certificate-icon {
+  position: relative;
+  float: right;
+  top: -70%;
+  margin-right: 10px;
+}
+
+.certificates-contents {
+  margin: 25px;
+}
+
+.view-all-certificate {
+  position: relative;
+  bottom: -38px;
+  color: white;
+  background-color: #48ab5d;
 }
 
 
