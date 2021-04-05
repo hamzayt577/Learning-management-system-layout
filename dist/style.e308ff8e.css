@@ -7,6 +7,7 @@
 html,
 body {
   height: 100%;
+  background: #eff3f6;
 }
 
 .name {
@@ -31,6 +32,96 @@ body {
 .messages-btn,
 .logout-btn {
   margin-bottom: 10px;
+}
+
+.course-to-do {
+  position: absolute;
+  right: 30px;
+  border-radius: 10px;
+  float: right;
+  /* margin-right: 100px; */
+  background: white;
+  border: 2px solid black;
+  width: 300px;
+}
+
+.paragraph-courses-to-do {
+  font-size: 20px;
+}
+
+.num-course-to-do {
+  margin-right: 50px;
+  font-size: 30px;
+}
+
+.overdue-courses {
+  position: absolute;
+  top: 20px;
+  right: 352px;
+  border-radius: 10px;
+  float: right;
+  background: white;
+  border: 2px solid black;
+  width: 300px;
+  height: 200px;
+}
+
+.paragraph-overdue-courses {
+  font-size: 20px;
+}
+
+.num-courses-overdue {
+  margin-right: 61px;
+  font-size: 30px;
+}
+
+.complete-course {
+  position: absolute;
+  top: 20px;
+  right: 680px;
+  border-radius: 10px;
+  float: right;
+  background: white;
+  border: 2px solid black;
+  width: 300px;
+  height: 200px;
+}
+
+.paragraph-completed-course {
+  font-size: 20px;
+}
+
+.num-courses-completed {
+  margin-right: 61px;
+  font-size: 30px;
+}
+
+.reward {
+  position: relative;
+  margin-left: 30px;
+  float: left;
+  top: 36%;
+  height: 170px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-right: 20px;
+  width: 35%;
+  background: white;
+}
+
+.reward button {
+  background-color: #48ab5d;
+  color: white;
+}
+
+.reward-contents {
+  margin: 25px;
+}
+
+.reward-icon {
+  position: relative;
+  float: right;
+  bottom: 160px;
 }
 
 
